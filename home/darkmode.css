@@ -1,0 +1,51 @@
+.dm .left {
+    background-color: black;
+}
+
+.dm .right {
+    background-color: black;
+}
+
+.dm .leftbox {
+    background-color: #6c757d3d;
+    color: white;
+    box-shadow: 1px 3px 3px 1px rgba(189, 189, 189, 0.24);
+}
+
+.dm .searchbox {
+    background-color: #6c757d3d;
+    box-shadow: 1px 3px 3px 1px rgba(189, 189, 189, 0.24);
+}
+
+.dm .search {
+    background-color: #6c757d00;
+}
+
+.dm .setting {
+    color: white;
+}
+
+.dm .playlistbox {
+    background-color: #6c757d3d;
+    color: white;
+}
+
+.dm .vote a {
+    color: white;
+}
+
+.dm .container-2 {
+    background-color: #6c757d3d;
+    color: white;
+}
+
+.dm .song-card1 {
+    background-color: rgba(128, 128, 128, 0.228);
+    color: wheat;
+}
+
+.dm .time,
+.dm .songName,
+.dm .play-audio {
+    color: wheat;
+}
